@@ -8,28 +8,28 @@
 
 [![Web](https://img.shields.io/badge/🌐_Web-Shadow--TermDev.github.io-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shadow-termdev.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-@Shadow--TermDev-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev)
-[![Profile Views](https://img.shields.io/badge/👀_Visitas-Shadow--TermDev-00ff41?style=for-the-badge)](https://github.com/Shadow-TermDev/Shadow-TermDev)
+[![Profile Views](https://img.shields.io/badge/👀_Visits-Shadow--TermDev-00ff41?style=for-the-badge)](https://github.com/Shadow-TermDev/Shadow-TermDev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00ff41&center=true&vCenter=true&width=600&lines=Construyo+herramientas+para+Termux;Automatizo+sistemas+en+la+terminal;Open+Source+por+naturaleza" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00ff41&center=true&vCenter=true&width=600&lines=Building+tools+for+Termux;Automating+systems+from+the+terminal;Open+Source+by+nature" alt="Typing SVG">
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo herramientas para **Termux**, automatizo sistemas y construyo proyectos **open source**. Me mueve el mundo del hacking ético, las rices de Linux y el desarrollo en Android sin PC.
+I'm **Erick**, known as **Shadow-TermDev**. I live in the terminal: I build tools for **Termux**, automate systems and create **open source** projects. I'm driven by ethical hacking, Linux rices and PC-less Android development.
 
-> *"La terminal no es una herramienta, es un estilo de vida."*
+> *"The terminal isn't a tool, it's a lifestyle."*
 
-- 🔭 Trabajando en herramientas para **Termux** y **Android**
-- 🌱 Aprendiendo siempre: shell scripting, Python y Linux profundo
-- ⚡ Fanático de las **rices**, la terminal verde y el minimalismo
-- 📍 Encuéntrame en mi web: **[shadow-termdev.github.io](https://shadow-termdev.github.io)**
+- 🔭 Working on tools for **Termux** and **Android**
+- 🌱 Always learning: shell scripting, Python and deep Linux
+- ⚡ Huge fan of **rices**, green terminals and minimalism
+- 📍 Find me on my website: **[shadow-termdev.github.io](https://shadow-termdev.github.io)**
 
 ---
 
-## 🛠️ Stack & Herramientas
+## 🛠️ Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-00ff41?style=flat-square&logo=gnubash&logoColor=black" alt="Bash">
@@ -44,7 +44,7 @@ Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
@@ -52,15 +52,15 @@ Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo
       <a href="https://github.com/Shadow-TermDev/Shadow-SetUp">
         <b>⚡ Shadow-SetUp</b>
       </a><br>
-      Script de instalación y configuración para Termux.<br>
-      <code><b>⭐ 4 estrellas</b></code> · <code>Shell</code>
+      Setup and configuration script for Termux.<br>
+      <code><b>⭐ 4 stars</b></code> · <code>Shell</code>
     </td>
     <td width="50%">
       <a href="https://github.com/Shadow-TermDev/Data_Downloader">
         <b>📥 Data_Downloader</b>
       </a><br>
-      Descarga videos, audio e imágenes desde la terminal.<br>
-      <code><b>⭐ 3 estrellas</b></code> · <code>Python</code>
+      Download videos, audio and images from the terminal.<br>
+      <code><b>⭐ 3 stars</b></code> · <code>Python</code>
     </td>
   </tr>
   <tr>
@@ -68,14 +68,14 @@ Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo
       <a href="https://github.com/Shadow-TermDev/xfce4-termux-rice">
         <b> xf️⃣ xfce4-termux-rice</b>
       </a><br>
-      RICE para XFCE4 con Termux nativo + termux:X11.<br>
+      A RICE for XFCE4 with native Termux + termux:X11.<br>
       <code>Shell</code>
     </td>
     <td width="50%">
       <a href="https://github.com/Shadow-TermDev/TokenHub">
         <b>🎫 TokenHub</b>
       </a><br>
-      Gestor de tokens de IA.<br>
+      A program for managing AI tokens.<br>
       <code>Python</code>
     </td>
   </tr>
@@ -83,7 +83,7 @@ Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo
 
 <p align="center">
   <a href="https://github.com/Shadow-TermDev?tab=repositories">
-    <img src="https://img.shields.io/badge/📁_Ver_todos_los_repos-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="Repositorios">
+    <img src="https://img.shields.io/badge/📁_View_all_repos-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="Repositories">
   </a>
 </p>
 
@@ -102,13 +102,13 @@ Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo
 
 ---
 
-## 🌐 Enlaces
+## 🌐 Links
 
 <div align="center">
 
-[![Página Web](https://img.shields.io/badge/Sitio_Web-shadow--termdev.github.io-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shadow-termdev.github.io)
+[![Website](https://img.shields.io/badge/Website-shadow--termdev.github.io-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shadow-termdev.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Shadow--TermDev-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev)
-[![Repositorio](https://img.shields.io/badge/📦_Este_repo-Star_⭐-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev/Shadow-TermDev)
+[![Repo](https://img.shields.io/badge/📦_This_repo-Star_⭐-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev/Shadow-TermDev)
 
 </div>
 
@@ -116,7 +116,7 @@ Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo
 
 <div align="center">
 
-### ⭐ Si te gusta lo que hago, dale star a mis proyectos
+### ⭐ If you like what I do, star my projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003311,100:00ff41&height=120&section=footer&animation=fadeIn" alt="footer">
 
