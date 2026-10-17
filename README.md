@@ -65,13 +65,6 @@ I'm **Erick**, known as **Shadow-TermDev**. I live in the terminal: I build tool
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Shadow-TermDev/xfce4-termux-rice">
-        <b> xf️⃣ xfce4-termux-rice</b>
-      </a><br>
-      A RICE for XFCE4 with native Termux + termux:X11.<br>
-      <code>Shell</code>
-    </td>
-    <td width="50%">
       <a href="https://github.com/Shadow-TermDev/TokenHub">
         <b>🎫 TokenHub</b>
       </a><br>
