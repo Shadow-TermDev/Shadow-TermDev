@@ -1,9 +1,125 @@
+<div align="center">
+
+<img src="https://github.com/Shadow-TermDev.png" width="170" style="border-radius:50%; border:5px solid #00ff41">
+
+# Shadow-TermDev
+
+### ⚡ The Terminal Lord — by Erick
+
+[![Web](https://img.shields.io/badge/🌐_Web-Shadow--TermDev.github.io-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shadow-termdev.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-@Shadow--TermDev-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev)
+[![Profile Views](https://img.shields.io/badge/👀_Visitas-Shadow--TermDev-00ff41?style=for-the-badge)](https://github.com/Shadow-TermDev/Shadow-TermDev)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00ff41&center=true&vCenter=true&width=600&lines=Construyo+herramientas+para+Termux;Automatizo+sistemas+en+la+terminal;Open+Source+por+naturaleza" alt="Typing SVG">
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+Soy **Erick**, conocido como **Shadow-TermDev**. Vivo en la terminal: desarrollo herramientas para **Termux**, automatizo sistemas y construyo proyectos **open source**. Me mueve el mundo del hacking ético, las rices de Linux y el desarrollo en Android sin PC.
+
+> *"La terminal no es una herramienta, es un estilo de vida."*
+
+- 🔭 Trabajando en herramientas para **Termux** y **Android**
+- 🌱 Aprendiendo siempre: shell scripting, Python y Linux profundo
+- ⚡ Fanático de las **rices**, la terminal verde y el minimalismo
+- 📍 Encuéntrame en mi web: **[shadow-termdev.github.io](https://shadow-termdev.github.io)**
+
+---
+
+## 🛠️ Stack & Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-00ff41?style=flat-square&logo=gnubash&logoColor=black" alt="Bash">
+  <img src="https://img.shields.io/badge/Shell_Scripting-00ff41?style=flat-square&logo=linux&logoColor=black" alt="Shell">
+  <img src="https://img.shields.io/badge/Python-00ff41?style=flat-square&logo=python&logoColor=black" alt="Python">
+  <img src="https://img.shields.io/badge/Termux-00ff41?style=flat-square&logo=gnometerminal&logoColor=black" alt="Termux">
+  <img src="https://img.shields.io/badge/Linux-00ff41?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/XFCE-00ff41?style=flat-square&logo=xfce&logoColor=black" alt="XFCE">
+  <img src="https://img.shields.io/badge/Git-00ff41?style=flat-square&logo=git&logoColor=black" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-00ff41?style=flat-square&logo=github&logoColor=black" alt="GitHub">
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Shadow-TermDev/Shadow-SetUp">
+        <b>⚡ Shadow-SetUp</b>
+      </a><br>
+      Script de instalación y configuración para Termux.<br>
+      <code><b>⭐ 4 estrellas</b></code> · <code>Shell</code>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Shadow-TermDev/Data_Downloader">
+        <b>📥 Data_Downloader</b>
+      </a><br>
+      Descarga videos, audio e imágenes desde la terminal.<br>
+      <code><b>⭐ 3 estrellas</b></code> · <code>Python</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Shadow-TermDev/xfce4-termux-rice">
+        <b> xf️⃣ xfce4-termux-rice</b>
+      </a><br>
+      RICE para XFCE4 con Termux nativo + termux:X11.<br>
+      <code>Shell</code>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Shadow-TermDev/TokenHub">
+        <b>🎫 TokenHub</b>
+      </a><br>
+      Gestor de tokens de IA.<br>
+      <code>Python</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Shadow-TermDev?tab=repositories">
+    <img src="https://img.shields.io/badge/📁_Ver_todos_los_repos-00ff41?style=for-the-badge&logo=github&logoColor=black" alt="Repositorios">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-TermDev&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-TermDev&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" height="165" alt="Top languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shadow-TermDev&theme=radical&background=0D1117&border=00000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak">
+</div>
+
+---
+
+## 🌐 Enlaces
 
 <div align="center">
 
-<img src="https://github.com/Shadow-TermDev.png" width="180" style="border-radius:50%; border:5px solid #00ff41">
+[![Página Web](https://img.shields.io/badge/Sitio_Web-shadow--termdev.github.io-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shadow-termdev.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Shadow--TermDev-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev)
+[![Repositorio](https://img.shields.io/badge/📦_Este_repo-Star_⭐-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Shadow-TermDev/Shadow-TermDev)
 
-# Shadow-TermDev
-### The Terminal Lord by Erick...
+</div>
 
-This is my official repo. Give a star ⭐
+---
+
+<div align="center">
+
+### ⭐ Si te gusta lo que hago, dale star a mis proyectos
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003311,100:00ff41&height=120&section=footer&animation=fadeIn" alt="footer">
+
+**© 2026 Shadow-TermDev — The Terminal Lord**
+
+</div>
